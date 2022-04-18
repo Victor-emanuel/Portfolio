@@ -1,0 +1,83 @@
+html {
+    text-align: center;
+    background-color: rgb(109, 111, 252);
+    margin: 15px;
+    padding: 15px;
+    font-size: 12px;
+}
+
+body {
+    background-color: snow;
+    border-radius: 2%;
+    border-color: black;
+    border-style: hidden;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    padding: 5px;
+    margin: 5px;
+}
+
+p {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.boxhtml {
+    background-color: snow;
+    width: 12%;
+    height: 20%;
+}
+
+.boxcss {
+    background-color: snow;
+    width: 12%;
+    height: 20%;
+}
+
+.boxjs {
+    background-color: snow;
+    width: 12%;
+    height: 20%;
+}
+
+.motivacion {
+    font-family: 'Bevan', cursive;
+    background-color: snow;
+    font-size: 12px;
+}
+
+.proyectos {
+    font-family: 'Bevan', cursive;
+    background-color: snow;
+}
+
+.informacionpersonal {
+    display: flex;
+    justify-content: space-between;
+    display: inline-table;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.listas li {
+    display: inline;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.lista2 {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#lista4 {
+    display: inline-table;
+    font-family: 'Libre Baskerville', serif;
+}
